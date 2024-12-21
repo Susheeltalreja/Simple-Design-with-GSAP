@@ -1,0 +1,6 @@
+{
+    "liveServer.settings.CustomBrowser": "chrome",
+    "livePreview.customExternalBrowser": "Chrome",
+    "livePreview.hostIP": " 192.168.0.110",
+    "liveServer.settings.host": "192.168.0.110"
+}
